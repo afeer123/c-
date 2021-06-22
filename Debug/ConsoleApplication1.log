@@ -1,0 +1,7 @@
+﻿  client.cpp
+  ConsoleApplication1.cpp
+  finaly.cpp
+  表达式函数.cpp
+C:\Users\20420\Desktop\c项目\003\tcp 传输练习\ConsoleApplication1\表达式函数.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码...
+  ConsoleApplication1.vcxproj -> C:\Users\20420\Desktop\c项目\003\tcp 传输练习\ConsoleApplication1\Debug\ConsoleApplication1.exe
